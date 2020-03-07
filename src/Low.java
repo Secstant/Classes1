@@ -3,7 +3,7 @@ import java.util.Random;
 public abstract class Low extends Alcohol {
     protected int strength;
 
-    public Low(int price, String name, int strength) {
+    public Low(double price, String name, int strength) {
         super(price, name);
         this.strength = strength;
     }
