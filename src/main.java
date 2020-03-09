@@ -32,6 +32,7 @@ public class main<randomNumber> {
 //        }
         Byxlo will=new Whiskey (100, "William",40, "Scotch");
         will=new Cola(50,"Coca",will);
+        will=new Juice(40, "Dobryi", will);
         System.out.println(will.getPrice());
         System.out.println(will.getName());
 
