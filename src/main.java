@@ -30,7 +30,7 @@ public class main<randomNumber> {
 //                    new Cognac ((int) cost, "Tiflis", 40, 3);
 //                    break;
 //        }
-        Byxlo will=new Whiskey (100, "William",40, "Scotch");
+        Drinks will=new Whiskey (100, "William",40, "Scotch");
         will=new Cola(50,"Coca",will);
         will=new Juice(40, "Dobryi", will);
         System.out.println(will.getPrice());

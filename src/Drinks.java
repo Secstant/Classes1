@@ -1,4 +1,4 @@
-public interface Byxlo {
+public interface Drinks {
     public double getPrice();
     public String getName();
 }

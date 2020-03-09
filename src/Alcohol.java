@@ -1,4 +1,4 @@
-public abstract class  Alcohol implements Byxlo {
+public abstract class  Alcohol implements Drinks {
     protected double price;
     protected String name;
 
